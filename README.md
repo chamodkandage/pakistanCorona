@@ -27,7 +27,7 @@ To use this analysis, you can download or clone the repository and open the covi
 
 ## Credits
 
-This analysis was performed by Chamod Kandage, with guidance from D. Thiyanta Talagala and support from University of Sri jayewardenepura, as part of Programming and Data analysis with R course unit.
+This analysis was performed by Chamod Kandage, with guidance from Dr. Thiyanga Talagala and support from University of Sri jayewardenepura, as part of Programming and Data analysis with R course unit.
 
 If you use this analysis or code in your own work, please cite this repository accordingly.
 
