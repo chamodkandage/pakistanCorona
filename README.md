@@ -7,9 +7,9 @@ Quick view = https://chamodkandage.github.io/pakistanCorona/
 
 The analysis includes the following steps:
 
-1.Data cleaning and preprocessing
-2.Exploratory data analysis
-3.Visualizations and descriptive statistics
+1.Data cleaning and preprocessing <br>
+2.Exploratory data analysis <br>
+3.Visualizations and descriptive statistics <br>
 4.Time series analysis
 
 ## Results
