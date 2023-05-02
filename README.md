@@ -18,12 +18,12 @@ The analysis shows the status of COVID-19 in Pakistan and provides insights into
 
 ## Files
 
-AS2019408Pakistan.rmd: R Markdown file containing the code and documentation for the analysis
+AS2019408Pakistan.Rmd: R Markdown file containing the code and documentation for the analysis <br>
 index.html: HTML output file containing the results of the analysis
 
 ## How to Use
 
-To use this analysis, you can download or clone the repository and open the covid_analysis.Rmd file in RStudio. You will need to install the necessary R packages listed in the file's header.
+To use this analysis, you can download or clone the repository and open the AS2019408Pakistan..Rmd file in RStudio. You will need to install the necessary R packages listed in the file's header.
 
 ## Credits
 
