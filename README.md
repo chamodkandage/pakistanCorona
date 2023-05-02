@@ -7,26 +7,25 @@ Quick view = https://chamodkandage.github.io/pakistanCorona/
 
 The analysis includes the following steps:
 
-Data cleaning and preprocessing
-Exploratory data analysis
-Visualizations and descriptive statistics
-Time series analysis
+1.Data cleaning and preprocessing
+2.Exploratory data analysis
+3.Visualizations and descriptive statistics
+4.Time series analysis
 
-##Results
+## Results
 
 The analysis shows the status of COVID-19 in Pakistan and provides insights into the trend and impact of the virus on the country. The analysis includes visualizations and statistics that help understand the data better.
 
-##Files
+## Files
 
-AS2019408: R Markdown file containing the code and documentation for the analysis
-covid_analysis.html: HTML output file containing the results of the analysis
-data/owid-covid-data.csv: COVID-19 data used in the analysis
+AS2019408Pakistan.rmd: R Markdown file containing the code and documentation for the analysis
+index.html: HTML output file containing the results of the analysis
 
-##How to Use
+## How to Use
 
 To use this analysis, you can download or clone the repository and open the covid_analysis.Rmd file in RStudio. You will need to install the necessary R packages listed in the file's header.
 
-##Credits
+## Credits
 
 This analysis was performed by Chamod Kandage, with guidance from D. Thiyanta Talagala and support from University of Sri jayewardenepura, as part of Programming and Data analysis with R course unit.
 
